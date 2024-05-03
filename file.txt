@@ -1,3 +1,4 @@
 hello git first
 second: branch 1
 third: branch1
+fixing a bug
